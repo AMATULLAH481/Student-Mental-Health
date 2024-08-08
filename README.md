@@ -1,4 +1,4 @@
-# Student-Mental-Health (Interactive Dashboard) [Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde)
+# Student-Mental-Health (Interactive Dashboard) [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde)
 
 ![image](https://github.com/AMATULLAH481/Student-Mental-Health/assets/88318475/9280fb04-85a5-4eab-9a19-73ef8729b0da)
 
