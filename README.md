@@ -6,5 +6,4 @@ This is a personal project I carried out to help practice my SQL skills, data vi
 
 * [Data source]: Kaggle.
 * [Tools]: Excel, SQL and Power BI.
-* Link to the dashboard:
-* [https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde]
+* [Link to the dashboard]: https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde
