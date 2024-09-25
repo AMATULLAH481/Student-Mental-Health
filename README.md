@@ -1,9 +1,12 @@
-# Student-Mental-Health (Interactive Dashboard) [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde)
+# Student-Mental-Health (Interactive Dashboard)
 
 ![image](https://github.com/AMATULLAH481/Student-Mental-Health/assets/88318475/9280fb04-85a5-4eab-9a19-73ef8729b0da)
 
+
 # Description
-This project uses Excel, SQL, and Power BI to analyze a student mental health dataset. The goal of this project is to derive insights into the factors that may influence students' mental health.
+The goal of this project is to derive insights into the factors that may influence students' mental health. Data was collectod from student's of various genders, age, level, cgpa and marital status to investigate prevalence of mental health issues amongst them.
+This project uses Excel, SQL, and Power BI to analyze a student mental health dataset. 
+The interactive dashboard can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMTI0NmI5MGEtNTQ5Yy00YmJhLWI1ZTAtYTAwYTY0YTk5NjA3IiwidCI6IjM4MGNlMGFiLWM3ZjgtNDRmZi04OWFjLTM3YzlhYjQ4NTEyYiJ9&pageName=ReportSection215016ec222b08973cde)
 
 * Data source: Kaggle.
 * Tools: Excel, SQL and Power BI.
